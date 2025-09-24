@@ -265,7 +265,7 @@ export function Enhanced360Viewer({ isActive, onLocationChange, selectedLocation
           <motion.div
             className="absolute inset-0"
             animate={{ 
-              transform: `translateX(${-rotation * 2}px) scale(${zoom / 100})`,
+              transform: `translateX(${-rotation * 2}px) scale(${zoom / 25})`,
             }}
             transition={{ type: "spring", stiffness: 100, damping: 15 }}
           >
