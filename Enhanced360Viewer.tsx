@@ -67,7 +67,7 @@ export function Enhanced360Viewer({ isActive, onLocationChange, selectedLocation
     {
       id: 'main-hall',
       name: t('main_hall'),
-      image: 'https://images.unsplash.com/photo-1692366340362-337ce06a321c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb25hc3RlcnklMjBpbnRlcmlvciUyMHBhbm9yYW1pYyUyMHN0b25lJTIwYXJjaGVzfGVufDF8fHx8MTc1ODcwMzcyMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      image: 'https://res.cloudinary.com/dmeosvjnh/image/upload/v1758737794/Gemini_Generated_Image_n73fb8n73fb8n73f_-_Gemini_Generated_Image_zatnrozatnrozatn_1_lgkyyf.jpg',
       audioDescription: "Welcome to the magnificent Main Hall of the monastery. This sacred space, built in the 12th century, features stunning Gothic arches and serves as the heart of the monastic community. The intricate stone work you see took craftsmen over 30 years to complete.",
       hotspots: [
         { x: 25, y: 30, title: "Ancient Altar", description: "Sacred altar with 800-year-old religious artifacts" },
