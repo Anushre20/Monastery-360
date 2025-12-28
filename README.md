@@ -10,7 +10,6 @@
 
 ## 🚀 Demo
 
-👉 Live Preview: [coming soon...]
 
 👉 Screenshots / GIFs:<img width="1421" height="846" alt="Screenshot 2025-12-28 at 11 39 45 AM" src="https://github.com/user-attachments/assets/9f813632-b878-48f6-9c47-8c4c2971a02d" />
 
